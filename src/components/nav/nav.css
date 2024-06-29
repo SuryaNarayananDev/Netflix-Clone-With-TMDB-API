@@ -1,0 +1,41 @@
+.netflix_logo{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+.avatar_logo{
+    width: 30px;
+    display: inline;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.navbar{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.211);
+    float: left;
+    position: fixed;
+    z-index: 5;
+}
+.buttons{
+    display: inline-block;
+    margin-top:  20px;
+    margin-left: 80px;
+
+}
+.btn{
+    background-color: transparent;
+    color: white;
+    outline: none;
+    border:none;
+    font-size: 18px;
+    margin-left: 10px;
+    border-radius:10px ;
+    height: 35px;
+}
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.537);
+    color: black;
+
+}

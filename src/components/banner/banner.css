@@ -1,0 +1,44 @@
+.banner_outline{
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.content{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 100px;
+    color: #fff;
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.content_btns{
+    width: 300px;
+  
+    
+}
+
+.content_btn{
+    margin-left: 45px;
+    width: 5.5rem;
+    height: 3rem;
+    border-radius: 10px;
+    background-color:rgba(63, 60, 60, 0.811);
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.content_btn:hover{
+    background-color: beige;
+    color: black;
+}
+
+.discrption{
+    color: #fff;
+    font-size: 18px;
+    max-width: 500px;
+    text-align: center;
+    margin-left: -80px;
+}
